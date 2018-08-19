@@ -1,5 +1,4 @@
-# IEEE-Connected-Autonomous-Vehicles-Workshop
-Perception Systems for Self-Driving Cars
+# IEEE-Connected-Autonomous-Vehicles-Workshop (2018)
 http://ecewp.ece.wpi.edu/wordpress/conav/
 
 ## Visual Perception for Self-Driving Cars
