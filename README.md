@@ -9,8 +9,8 @@ We will motivate the problem and the challenges of vehicle environment perceptio
 ## Bibliography
 
 ### Reference Papers
-* “Towards a Functional System Architecture for Automated Vehicles”, Ulbrich et al. (2017), https://arxiv.org/abs/1703.08557  
-* “Toward Perception-Driven Urban Environment Modeling for Automated Road Vehicles”, Rieken, Matthaei and Maurer (2015), https://ieeexplore.ieee.org/document/7313216/ 
+* Ulbrich et. al., “Towards a Functional System Architecture for Automated Vehicles” (2017), https://arxiv.org/abs/1703.08557  
+* Rieken et. al., “Toward Perception-Driven Urban Environment Modeling for Automated Road Vehicles” (2015), https://ieeexplore.ieee.org/document/7313216/ 
 * Dickmanns and Mysliwetz, “Recursive 3-D Road and Relative Ego-State Recognition,” 1992.
 * Bertozzi and Broggi, “GOLD: A parallel real-time stereo vision system for generic obstacle and lane detection,” 1998.
 * Aly, “Real time detection of lane markers in urban streets,” 2008.
