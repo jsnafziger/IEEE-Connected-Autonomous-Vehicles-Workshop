@@ -1,4 +1,4 @@
-# IEEE-Connected-Autonomous-Vehicles-Workshop (2018)
+# IEEE-Connected-Autonomous-Vehicles-Workshop (August 20-21, 2018)
 http://ecewp.ece.wpi.edu/wordpress/conav/
 
 ## Visual Perception for Self-Driving Cars
